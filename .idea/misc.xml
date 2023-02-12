@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mustafa/AndroidStudioProjects/AuthenticationFirebase/app/src/main/res/drawable/add.xml" value="0.2165" />
+        <entry key="..\:/Users/Mustafa/AndroidStudioProjects/AuthenticationFirebase/app/src/main/res/drawable/buttonbackground.xml" value="0.2135" />
+        <entry key="..\:/Users/Mustafa/AndroidStudioProjects/AuthenticationFirebase/app/src/main/res/drawable/constraintbackground.xml" value="0.1" />
+        <entry key="..\:/Users/Mustafa/AndroidStudioProjects/AuthenticationFirebase/app/src/main/res/drawable/exitbutton.xml" value="0.2035" />
+        <entry key="..\:/Users/Mustafa/AndroidStudioProjects/AuthenticationFirebase/app/src/main/res/drawable/lock.xml" value="0.157" />
+        <entry key="..\:/Users/Mustafa/AndroidStudioProjects/AuthenticationFirebase/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Mustafa/AndroidStudioProjects/AuthenticationFirebase/app/src/main/res/layout/activity_profile.xml" value="0.21403508771929824" />
+        <entry key="..\:/Users/Mustafa/AndroidStudioProjects/AuthenticationFirebase/app/src/main/res/layout/activity_reset.xml" value="0.21403508771929824" />
+        <entry key="..\:/Users/Mustafa/AndroidStudioProjects/AuthenticationFirebase/app/src/main/res/layout/activity_signup.xml" value="0.21403508771929824" />
+        <entry key="..\:/Users/Mustafa/AndroidStudioProjects/AuthenticationFirebase/app/src/main/res/layout/activity_singup.xml" value="0.176" />
+        <entry key="..\:/Users/Mustafa/AndroidStudioProjects/AuthenticationFirebase/app/src/main/res/layout/activity_splash.xml" value="0.21403508771929824" />
+        <entry key="..\:/Users/Mustafa/AndroidStudioProjects/AuthenticationFirebase/app/src/main/res/layout/activity_update.xml" value="0.21403508771929824" />
+        <entry key="..\:/Users/Mustafa/AndroidStudioProjects/AuthenticationFirebase/app/src/main/res/layout/activity_welcome.xml" value="0.21403508771929824" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

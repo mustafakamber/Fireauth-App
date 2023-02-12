@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47081141850",
+    "project_id": "fir-authentication-ad0ad",
+    "storage_bucket": "fir-authentication-ad0ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47081141850:android:dee41d554a8c842550ca63",
+        "android_client_info": {
+          "package_name": "com.mustafakamber.authenticationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47081141850-hj27m4isoqkjq1s80nqm0b77ugpiutsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXOQfm3TbcnybA8UNDDq6xhGVaMSR9yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47081141850-hj27m4isoqkjq1s80nqm0b77ugpiutsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
